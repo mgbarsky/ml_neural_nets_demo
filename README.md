@@ -1,1 +1,1 @@
-# Demo for Introduction to Neral Nets
+# Demo for Introduction to Neural Nets
